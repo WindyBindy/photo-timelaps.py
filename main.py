@@ -1,5 +1,6 @@
 # imports
 import time
+from cv2 import *
 
 # constants
 wholeTime = 20
